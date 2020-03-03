@@ -1,2 +1,2 @@
 # HTML-CSS-Bootstrap-Image-Gallery-Site
-Work in progress of a site using for practicing and learning bootstrap.
+A sample site for practicing bootstrap concepts. Such as the grid layout, nav, icons, general styling and more.
